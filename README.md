@@ -13,4 +13,5 @@ School of Remote Sensing and Information Engineering, Wuhan University, Wuhan 43
 
 The data can be accessed through the following channels:
 
-BaiduNetDisk: [https://pan.baidu.com/s/1DfKkAgKbdiqX1WcbWsZR-g](https://pan.baidu.com/s/1DfKkAgKbdiqX1WcbWsZR-g) (code: rpjn)
+**BaiduNetDisk**: [https://pan.baidu.com/s/1DfKkAgKbdiqX1WcbWsZR-g](https://pan.baidu.com/s/1DfKkAgKbdiqX1WcbWsZR-g) (code: rpjn)
+**GoogleDrive**: https://drive.google.com/file/d/1W7GKo1Joz4MrQgBtfZZv3ogt7NfqHrcV/view?usp=sharing
