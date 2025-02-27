@@ -10,3 +10,6 @@ Zhou, Yibo, Ju Zhang, Qingwu Hu, Pengcheng Zhao, Fei Yu, Mingyao Ai, and Yuchun 
 Copyright (c) 2024 Yibo Zhou, Ju Zhang, Qingwu Hu, Pengcheng Zhao
 
 School of Remote Sensing and Information Engineering, Wuhan University, Wuhan 430079, China
+
+The data can be accessed through the following channels:
+BaiduNetDisk: [https://pan.baidu.com/s/1_tZd20e2puDNDQ5sqHwQcw](https://pan.baidu.com/s/1_tZd20e2puDNDQ5sqHwQcw) (code: b7ds)
